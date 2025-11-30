@@ -1,3 +1,3 @@
-module github.com/max/convert_svg
+module github.com/dev-web-hub/convert_svg
 
 go 1.22
